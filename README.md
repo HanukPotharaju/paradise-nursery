@@ -51,17 +51,8 @@ The app allows users to browse different **houseplants**, add them to their **sh
 
 ## 🤝 **Contributors**  
 
-👤 **Hanuk Potharaju** *(Add more contributors if needed)*  
+👤 **Hanuk Potharaju** 
 
 📜 **License:** This project is **open-source** under the **MIT License**.  
 
 ---
-
-### **🚀 Final Steps: Commit & Push to GitHub**  
-
-1. **Save this as `README.md`**  
-2. **Commit & Push to GitHub**:  
-   ```sh
-   git add README.md
-   git commit -m "Fixed README formatting"
-   git push origin main
