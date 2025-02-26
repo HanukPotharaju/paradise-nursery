@@ -5,8 +5,7 @@
 Paradise Nursery is an **online plant shopping application** built with **React, Redux, and Vite**.  
 The app allows users to browse different **houseplants**, add them to their **shopping cart**, and view their total cost before checkout.  
 
-🚀 **Live Demo:** [Paradise Nursery](https://your-github-pages-url)  
-*(Replace with the actual deployed GitHub Pages URL)*  
+🚀 **Live Demo:** [Paradise Nursery](https://hanukpotharaju.github.io/paradise-nursery/)  
 
 ---
 
