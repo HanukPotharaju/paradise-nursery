@@ -11,9 +11,9 @@ import peaceLilyImage from "../assets/peacelily.jpg";
 import bonsaiImage from "../assets/Bonsai.jpg";
 
 const plantsArray = [
-  { id: 1, name: "Aloe Vera", price: "$10", description: "Air-purifying plant", image: aloeVeraImage },
-  { id: 2, name: "Snake Plant", price: "$15", description: "Low-maintenance plant", image: snakePlantImage },
-  { id: 3, name: "Lavender", price: "$12", description: "Aromatic plant", image: lavenderImage },
+  { id: 1, name: "Aloe Vera", price: "$10", description: "Air-purifying plant",category: "Air-Purifying", image: aloeVeraImage },
+  { id: 2, name: "Snake Plant", price: "$15", description: "Low-maintenance plant",category: "Low Maintenance", image: snakePlantImage },
+  { id: 3, name: "Lavender", price: "$12", description: "Aromatic plant",category: "Fragrant", image: lavenderImage },
   { id: 4, name: "Fern", price: "$14", description: "Lush green foliage", category: "Decorative", image: fernImage },
   { id: 5, name: "Peace Lily", price: "$18", description: "Air-purifying with beautiful flowers", category: "Air-Purifying", image: peaceLilyImage },
   { id: 6, name: "Bonsai", price: "$25", description: "Miniature tree for indoor beauty", category: "Decorative", image: bonsaiImage }
